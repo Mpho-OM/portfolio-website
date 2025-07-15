@@ -1,7 +1,7 @@
 {
   "name": "Portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://mphoChuene.github.io/portfolio-website",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
